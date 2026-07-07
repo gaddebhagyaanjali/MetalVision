@@ -1,0 +1,16 @@
+=============================================
+           DATASET REPORT
+=============================================
+Original Images      : 1034
+Duplicates Removed   : 238
+Blurry Removed       : 5
+Small Images Removed : 0
+---------------------------------------------
+Final Images         : 791
+
+Average Resolution   : 420 x 362
+
+Classes
+-------
+Copper : 791
+=============================================
