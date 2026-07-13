@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://127.0.0.1:5000/predict";
+const API_URL = "https://metalvision.onrender.com/predict";
 
 export const predictMaterial = async (file: File) => {
   const formData = new FormData();
